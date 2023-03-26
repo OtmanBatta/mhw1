@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://www.dedalostone.com/wp-content/uploads/2021/04/marmo-800x530.jpg);
+    background-image: url("MarmoBackground.jpg");
     font-size: 15px;
 }
 
@@ -29,7 +29,7 @@ nav {
 }
 
 .NavBarItem {
-    background-image: url(https://www.marmomac.com/wp-content/uploads/2022/07/Nero-Marquina.jpg) ;
+    background-image: url("NavBarItem.jpg") ;
     background-color:#bda004;
     border: 3px ridge gold;
     border-radius: 5px;
@@ -71,7 +71,7 @@ nav {
 }
 
 header {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-36Ag3Ek9GS87BrU0WwG5TqW5l1F_xA-BxA&usqp=CAU);
+    background-image: url("Background Header.jpg");
     background-repeat:no-repeat;
     background-size:100% 100%;
     position:absolute;
@@ -105,7 +105,7 @@ section {
 }
 
 .ItemBlock {
-    background-image: url(https://www.marmomac.com/wp-content/uploads/2022/08/marmo-arabescato-copertina.jpg);
+    background-image: url("itemblock.jpg");
     background-color:rgba(189, 160, 4, 0.59);
     border: 10px ridge gold;
     position: relative;
